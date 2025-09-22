@@ -1,6 +1,5 @@
 # Bulk Media Metadata Manager for WordPress
 
-![Plugin Banner](https-hotelfauchere-com-storage-2025-04-16-img_4955-copy-1-webp)
 
 A powerful and user-friendly WordPress plugin designed to give you complete control over your Media Library's metadata. Manage image titles and alt text in bulk to dramatically improve your site's SEO and accessibility.
 
@@ -61,7 +60,7 @@ This plugin is packed with features designed for flexibility, safety, and power.
 
 ## Installation
 
-1.  Download the latest version of the plugin as a ZIP file from the [Releases](https://github.com/your-username/your-repository/releases) page.
+1.  Download the latest version of the plugin as a ZIP file from the [Releases] page.
 2.  In your WordPress admin dashboard, go to **Plugins > Add New**.
 3.  Click **Upload Plugin** and select the ZIP file you downloaded.
 4.  Activate the plugin.
